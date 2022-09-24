@@ -1,0 +1,57 @@
+
+.infocontainer{
+    
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    padding: 100px;
+   
+    
+}
+
+.infoBox{
+
+    padding: 20px;
+
+}
+
+.icon{
+    height: 10%;
+    width: 5%;
+    border-radius: 50%;
+    background-color: azure;
+    padding: 10px;
+}
+
+.infoBox1bg{
+    background-color: chocolate;
+}
+.infoBox2bg{
+    background-color: blueviolet;
+}
+.infoBox3bg{
+    background-color: red;
+}
+
+
+
+.button > button{
+    color: orange;
+    background-color: white;
+    border-radius: 25px;
+    width: 50%;
+    font-size: 20px;
+    font-family: 'Calibri';
+    margin-top: 55px;
+}
+
+.heading{
+    font-family: Calibri;
+    color: antiquewhite;
+}
+
+.text{
+
+    font-family: Calibri;
+    color: antiquewhite;
+}
